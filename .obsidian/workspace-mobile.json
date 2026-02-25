@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "24bca4b1a5ebd15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca4a0f36a2e87e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9ceb52c9a2baac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e3cdccb1a542bf5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4cf086730258b8e9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "e4a261ee0b3ffcd4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#azure #identity ",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "87bd38a2a1e78769",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "81d26d9e63f25e2b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "4bb8dc33f8dd3016",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2444a5c76aeb76de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae397730d3603bc3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "67755091a5c23990",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Hello.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ac4954fa202ce75c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Hello.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4c9ceb52c9a2baac",
+  "lastOpenFiles": [
+    "OAuth 2.0.md",
+    "Vector Database Tradeoffs.md",
+    "Identity Systems.md",
+    "Azure B2C.md",
+    "Untitled.md",
+    "AI Agent Architecture.md",
+    "Long-Term Memory in Agents.md",
+    "Untitled 1.md",
+    "RAG Patterns.md",
+    "AI Systems MOC.md",
+    "Vector Databases.md",
+    "Zero Trust Architecture.md",
+    "Authentication vs Authorization.md",
+    "OpenID Connect.md",
+    "Untitled 1",
+    "AI Agent Ideas.md",
+    "Untitled.canvas",
+    "Untitled",
+    "Note 3.md",
+    "Note 2.md"
+  ]
+}
