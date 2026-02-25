@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.trash/
+
+# RAG pipeline artifacts
+rag/chroma_db/
+
+# Claude Code
+.claude/
+
+# Obsidian plugin data
+steve-ai.opf
+steve-ai.opf.db
