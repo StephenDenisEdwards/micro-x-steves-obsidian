@@ -1,6 +1,6 @@
-# Obsidian Vault RAG Pipeline
+# Obsidian Vault RAG Pipeline (PoC)
 
-A demonstration of Retrieval-Augmented Generation (RAG) over an [Obsidian](https://obsidian.md) knowledge vault. The vault contains interconnected notes about **agent loop compaction** — the techniques used to manage context window consumption in LLM-powered agent systems. A Python pipeline ingests the vault into a vector database and answers natural-language questions grounded in the vault's content.
+A proof-of-concept for Retrieval-Augmented Generation (RAG) over an [Obsidian](https://obsidian.md) knowledge vault. The vault contains interconnected notes about **agent loop compaction** — the techniques used to manage context window consumption in LLM-powered agent systems. A Python pipeline ingests the vault into a vector database and answers natural-language questions grounded in the vault's content.
 
 ## What Is Obsidian?
 
